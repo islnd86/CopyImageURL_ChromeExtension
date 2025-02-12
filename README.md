@@ -6,9 +6,10 @@
 
 ## 📌 Features
 - Right-click on an image and select **"Copy Text and Image URL"**
-  *The menu is written in Japanse. Please change code if you want.
 - Collect multiple image URLs in a **concatenated format (separated by `;`)**  
 - Easily clear the stored URLs when needed  
+
+*The menu is written in Japanese. Please the change code if you want.
 
 ## 🛠 Installation
 1. **[Download the ZIP from GitHub](https://github.com/islnd86/CopyImageURL_ChromeExtension/archive/refs/heads/main.zip)**
